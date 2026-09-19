@@ -61,7 +61,6 @@ function Hero() {
               <span className="text-8xl font-bold text-[#FF6B35] font-mono">{'</>'}</span>
             </div>
             <div className="mt-6 rounded-xl bg-[#0A0A0A] border border-[#2A2A2A] px-5 py-4">
-              <p className="text-xs text-[#787878] font-mono mb-1">// currently building</p>
               <p className="font-semibold text-white">React + Redux Toolkit</p>
             </div>
           </div>
